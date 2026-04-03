@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=CSE+Student+%40+Sitare+University;Full+Stack+Developer+%7C+Data+Enthusiast;Building+Real+World+Projects;Python+%7C+Flask+%7C+JavaScript+%7C+DSA" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=CSE+Student+%40+Sitare+University;Full+Stack+Developer+%7C+Data+Engineer;Building+Real+World+Systems;Python+%7C+C+%7C+Flask+%7C+React+%7C+DSA" />
   </a>
 </p>
 
@@ -17,16 +17,14 @@
 
 ---
 
-## 🙋‍♂️ About Me
+## 🚀 About Me
 
-I'm a **Computer Science Engineering student at Sitare University**, passionate about building **real-world projects** and mastering core CS concepts.
-
-* 🎓 B.Tech CSE @ Sitare University
-* 💻 Strong in **Python, Web Development & Data Handling**
-* 🔭 Currently working on **Data Visualization & Full Stack Projects**
-* 🌱 Learning **Search Engines, IR, and Advanced DSA**
-* 🧠 I love building things from scratch — not just using tools, but understanding them
-* 🚀 Goal: Become a **high-level full-stack + systems engineer**
+* 🎓 B.Tech Computer Science @ Sitare University (2027)
+* 🏆 100% Scholarship — Sitare Foundation
+* 💻 Full Stack Developer + Data Enthusiast
+* 🧠 Strong foundation in **DSA, Systems & Backend Development**
+* 🔍 Exploring **Search Engines, IR & ML Systems**
+* ⚡ Focused on building **real-world scalable projects**
 
 ---
 
@@ -35,110 +33,105 @@ I'm a **Computer Science Engineering student at Sitare University**, passionate 
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square\&logo=c\&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square\&logo=css3\&logoColor=white)
 
-**Frameworks & Tools**
+**Web & Backend**
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask\&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square\&logo=chartdotjs\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square\&logo=django\&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
 
-**Data & Libraries**
+**Data & Tools**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-76B900?style=flat-square\&logo=python\&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square\&logo=render\&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Projects (Impact-Based)
 
-### 📊 StackOverflow Data Visualization Dashboard
+### 🏥 Clinic Management System
 
-Built a **full-stack data visualization platform** using real StackOverflow data.
+* Built a full-stack system to digitize clinic operations
+* Implemented **role-based dashboards** (Doctor / Patient / Receptionist)
+* Automated appointments, billing & prescription tracking
 
-* Processed **400K+ rows CSV data**
-* Built REST APIs using Flask
-* Created interactive charts using Chart.js
-* Shows trends like monthly questions, hourly activity, yearly growth
-
-🔗 Frontend: https://stackoverflowdhpproject.netlify.app/
-🔗 Backend: https://backend-dhp-project-1-xgv8.onrender.com
-
-`Python` `Flask` `Chart.js` `Pandas` `Data Analysis`
+`Django` `MySQL` `JavaScript`
 
 ---
 
-### 🎬 Movie Data Analysis Website (Team Project)
+### 🎉 EventSphere — University Event Platform
 
-A full-stack project combining **data handling + web development + NLP concepts**.
+* Developed event system handling registrations & announcements
+* Built **real-time updates + analytics dashboards**
+* Improved coordination across users
 
-* Data preprocessing using Pandas
-* Backend APIs for dynamic data
-* Frontend visualization & UI
-* Team collaboration project
-
-`Python` `Flask` `Frontend` `Data Analysis`
+`Flask` `Node.js` `MongoDB`
 
 ---
 
-### 📈 LinkedIn Network Graph Analysis
+### 🤖 Career Path Finder
 
-Analyzed real-world LinkedIn connection data to understand **network structures**.
+* Extracted skills from resumes using NLP
+* Matched users with trending job roles
+* Automated recommendations pipeline
 
-* Graph-based modeling
-* Connectivity & path analysis
-* Random walk simulations
-
-`Python` `Graph Algorithms` `Data Analysis`
+`Python` `NLP` `BeautifulSoup`
 
 ---
 
-### 🌐 ITC Project Website
+### 📊 StackOverflow Tag Trend Analyzer
 
-A frontend-based project showcasing UI/UX and web structure.
+* Processed **large-scale real-world dataset (400K+ rows)**
+* Built APIs + dashboards for trend analysis
+* Visualized long-term tech trends
 
-🔗 https://sauhardrai.github.io/itc_project/
-
-`HTML` `CSS` `JavaScript`
+`Python` `Flask` `Chart.js` `Pandas`
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arjunkadampatil&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunkadampatil&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=arjunkadampatil&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=arjunkadampatil&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=arjunkadampatil&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arjunkadampatil&theme=tokyo-night"/>
 </p>
 
 ---
 
-## 📚 Currently Learning
+## 🐍 Contribution Snake
 
-* 🔍 **Search Engines & Information Retrieval**
-* 🌐 **Advanced Full Stack Development**
-* 🧠 **Data Structures & Algorithms (DSA)**
-* 📊 **Data Visualization & Large Dataset Handling**
-* ⚙️ **Backend Architecture & API Design**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arjunkadampatil/arjunkadampatil/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 📈 Currently Focused On
+
+* 🔍 Search Engines & Information Retrieval
+* ⚙️ Backend Architecture & System Design
+* 🧠 Advanced DSA & Problem Solving
+* 📊 Data Engineering & Large Dataset Handling
 
 ---
 
 <p align="center">
   <i>
-    I believe in learning by building and staying consistent.<br/>
-    If you like my work, feel free to connect or collaborate 🚀
+    I build systems, not just projects.<br/>
+    Open to internships, collaborations & impactful work 🚀
   </i>
 </p>
