@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=CSE+Student+%40+Sitare+University;Full+Stack+Developer+%7C+Data+Engineer;Building+Real+World+Systems;Python+%7C+C+%7C+Flask+%7C+React+%7C+DSA" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=CSE+Student+%40+Sitare+University;Full+Stack+Developer+%7C+Backend+Focused;Building+Scalable+Real-World+Systems;Python+%7C+C+%7C+Flask+%7C+React+%7C+DSA" />
   </a>
 </p>
 
@@ -21,10 +21,10 @@
 
 * 🎓 B.Tech Computer Science @ Sitare University (2028)
 * 🏆 100% Scholarship — Sitare Foundation
-* 💻 Full Stack Developer + Data Enthusiast
-* 🧠 Strong foundation in **DSA, Systems & Backend Development**
-* 🔍 Exploring **Search Engines, IR & ML Systems**
-* ⚡ Focused on building **real-world scalable projects**
+* 💻 Full Stack Developer with strong focus on **Backend & Systems**
+* 🧠 Solid foundation in **DSA, OOP & System Design fundamentals**
+* 🔍 Exploring **Search Engines, Information Retrieval & ML Systems**
+* ⚡ Passionate about building **scalable, real-world applications**
 
 ---
 
@@ -54,33 +54,33 @@
 
 ---
 
-## 📌 Featured Projects (Impact-Based)
+## 💼 Featured Projects (Impact-Oriented)
 
 ### 🏥 Clinic Management System
 
-* Built a full-stack system to digitize clinic operations
-* Implemented **role-based dashboards** (Doctor / Patient / Receptionist)
-* Automated appointments, billing & prescription tracking
+* Built a **full-stack healthcare workflow system** handling appointments, billing & prescriptions
+* Designed **role-based authentication system** for 3 user types
+* Improved operational efficiency by digitizing manual processes
 
 `Django` `MySQL` `JavaScript`
 
 ---
 
-### 🎉 EventSphere — University Event Platform
+### 🎉 EventSphere — Event Management Platform
 
-* Developed event system handling registrations & announcements
-* Built **real-time updates + analytics dashboards**
-* Improved coordination across users
+* Developed scalable system for **event creation, registrations & announcements**
+* Integrated **real-time updates + analytics dashboards**
+* Enhanced coordination for large student communities
 
 `Flask` `Node.js` `MongoDB`
 
 ---
 
-### 🤖 Career Path Finder
+### 🤖 Career Path Finder (NLP System)
 
-* Extracted skills from resumes using NLP
-* Matched users with trending job roles
-* Automated recommendations pipeline
+* Built NLP pipeline to **extract skills from resumes**
+* Implemented automated **job-role recommendation system**
+* Used scraping + keyword analysis for trend-based suggestions
 
 `Python` `NLP` `BeautifulSoup`
 
@@ -88,9 +88,9 @@
 
 ### 📊 StackOverflow Tag Trend Analyzer
 
-* Processed **large-scale real-world dataset (400K+ rows)**
-* Built APIs + dashboards for trend analysis
-* Visualized long-term tech trends
+* Processed **400K+ real-world data points**
+* Designed REST APIs for trend analysis
+* Built interactive dashboards for **tech trend visualization**
 
 `Python` `Flask` `Chart.js` `Pandas`
 
@@ -120,18 +120,18 @@
 
 ---
 
-## 📈 Currently Focused On
+## 📈 Current Focus
 
 * 🔍 Search Engines & Information Retrieval
 * ⚙️ Backend Architecture & System Design
 * 🧠 Advanced DSA & Problem Solving
-* 📊 Data Engineering & Large Dataset Handling
+* 📊 Data Engineering & Large Dataset Processing
 
 ---
 
 <p align="center">
   <i>
-    I build systems, not just projects.<br/>
-    Open to internships, collaborations & impactful work 🚀
+    I focus on building systems that solve real problems.<br/>
+    Open to internships, collaborations & impactful opportunities 🚀
   </i>
 </p>
