@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 
-* 🎓 B.Tech Computer Science @ Sitare University (2027)
+* 🎓 B.Tech Computer Science @ Sitare University (2028)
 * 🏆 100% Scholarship — Sitare Foundation
 * 💻 Full Stack Developer + Data Enthusiast
 * 🧠 Strong foundation in **DSA, Systems & Backend Development**
