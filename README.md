@@ -31,8 +31,6 @@
 
 <img src="https://skillicons.dev/icons?i=python,java,c,js,react,nodejs,flask,django,mysql,mongodb,linux"/>
 
-<br>
-
 <img src="https://img.shields.io/badge/Python-Advanced-6366F1?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Java-Intermediate-6366F1?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/JavaScript-Intermediate-6366F1?style=for-the-badge"/>
