@@ -100,26 +100,6 @@
 
 ---
 
-## GitHub Analytics
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=arjunkadampatil&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arjunkadampatil&theme=tokyo-night"/>
-</p>
-
----
-
-## Contribution Snake
-
-<p>
-  <img src="https://raw.githubusercontent.com/arjunkadampatil/arjunkadampatil/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
 ## Current Focus
 
 • Search Engines & Information Retrieval  
