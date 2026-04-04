@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=120&section=header"/>
 </p>
 
 ---
@@ -30,6 +30,24 @@
 🧠 Solid foundation in **DSA, OOP & System Design fundamentals**  
 🔍 Exploring **Search Engines, Information Retrieval & ML Systems**  
 ⚡ Passionate about building **scalable, real-world applications**
+
+</div>
+
+---
+
+## 🧠 Skill Level
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,c,js,react,nodejs,flask,django,mysql,mongodb,linux"/>
+
+<br><br>
+
+<img src="https://progress-bar.dev/90/?title=Python&width=500"/>
+<img src="https://progress-bar.dev/75/?title=Java&width=500"/>
+<img src="https://progress-bar.dev/70/?title=JavaScript&width=500"/>
+<img src="https://progress-bar.dev/80/?title=Backend+Development&width=500"/>
+<img src="https://progress-bar.dev/85/?title=DSA&width=500"/>
 
 </div>
 
@@ -68,8 +86,11 @@
 
 ## 💼 Featured Projects (Impact-Oriented)
 
+<table>
+<tr>
+<td width="50%">
+
 ### 🏥 Clinic Management System
-<div align="left">
 
 • Built a **full-stack healthcare workflow system** handling appointments, billing & prescriptions  
 • Designed **role-based authentication system** for 3 user types  
@@ -77,12 +98,11 @@
 
 `Django` `MySQL` `JavaScript`
 
-</div>
+</td>
 
----
+<td width="50%">
 
 ### 🎉 EventSphere — Event Management Platform
-<div align="left">
 
 • Developed scalable system for **event creation, registrations & announcements**  
 • Integrated **real-time updates + analytics dashboards**  
@@ -90,12 +110,13 @@
 
 `Flask` `Node.js` `MongoDB`
 
-</div>
+</td>
+</tr>
 
----
+<tr>
+<td width="50%">
 
 ### 🤖 Career Path Finder (NLP System)
-<div align="left">
 
 • Built NLP pipeline to **extract skills from resumes**  
 • Implemented automated **job-role recommendation system**  
@@ -103,12 +124,11 @@
 
 `Python` `NLP` `BeautifulSoup`
 
-</div>
+</td>
 
----
+<td width="50%">
 
 ### 📊 StackOverflow Tag Trend Analyzer
-<div align="left">
 
 • Processed **400K+ real-world data points**  
 • Designed REST APIs for trend analysis  
@@ -116,7 +136,9 @@
 
 `Python` `Flask` `Chart.js` `Pandas`
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -158,7 +180,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=100&section=footer"/>
 </p>
 
 <p align="center">
