@@ -19,7 +19,7 @@
 ## About Me
 
 • B.Tech Computer Science @ Sitare University (2028)  
-• 100% Scholarship — Sitare Foundation  
+• 100% Scholarship - Sitare Foundation  
 • Full Stack Developer with strong focus on **Backend & Systems**  
 • Solid foundation in **DSA, OOP & System Design fundamentals**  
 • Exploring **Search Engines, Information Retrieval & ML Systems**  
