@@ -33,11 +33,11 @@
 
 <br><br>
 
-<img src="https://progress-bar.dev/90/?title=Python"/>
-<img src="https://progress-bar.dev/75/?title=Java"/>
-<img src="https://progress-bar.dev/70/?title=JavaScript"/>
-<img src="https://progress-bar.dev/80/?title=Backend"/>
-<img src="https://progress-bar.dev/85/?title=DSA"/>
+<img src="https://img.shields.io/badge/Python-Advanced-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Java-Intermediate-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JavaScript-Intermediate-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend-Strong-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DSA-Strong-6366F1?style=for-the-badge"/>
 
 ---
 
@@ -66,9 +66,7 @@
 
 ## 💼 Featured Projects (Impact-Oriented)
 
-<table>
-<tr>
-<td>
+<div>
 
 ### 🏥 Clinic Management System
 • Built a **full-stack healthcare workflow system** handling appointments, billing & prescriptions  
@@ -77,11 +75,7 @@
 
 `Django` `MySQL` `JavaScript`
 
-</td>
-</tr>
-
-<tr>
-<td>
+---
 
 ### 🎉 EventSphere — Event Management Platform
 • Developed scalable system for **event creation, registrations & announcements**  
@@ -90,11 +84,7 @@
 
 `Flask` `Node.js` `MongoDB`
 
-</td>
-</tr>
-
-<tr>
-<td>
+---
 
 ### 🤖 Career Path Finder (NLP System)
 • Built NLP pipeline to **extract skills from resumes**  
@@ -103,11 +93,7 @@
 
 `Python` `NLP` `BeautifulSoup`
 
-</td>
-</tr>
-
-<tr>
-<td>
+---
 
 ### 📊 StackOverflow Tag Trend Analyzer
 • Processed **400K+ real-world data points**  
@@ -116,9 +102,7 @@
 
 `Python` `Flask` `Chart.js` `Pandas`
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -155,7 +139,7 @@
 
 ---
 
-<p>
+<p align="center">
   <i>
     I focus on building systems that solve real problems.<br/>
     Open to internships, collaborations & impactful opportunities 🚀
