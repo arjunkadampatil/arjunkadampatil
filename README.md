@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/arjun-kadam-a2394631a">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/arjunkadampatil">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -31,7 +31,7 @@
 
 <img src="https://skillicons.dev/icons?i=python,java,c,js,react,nodejs,flask,django,mysql,mongodb,linux"/>
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/Python-Advanced-6366F1?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Java-Intermediate-6366F1?style=for-the-badge"/>
