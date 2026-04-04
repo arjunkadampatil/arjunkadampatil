@@ -14,15 +14,9 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=120&section=header"/>
-</p>
-
 ---
 
 ## 🚀 About Me
-
-<div align="center">
 
 🎓 B.Tech Computer Science @ Sitare University (2028)  
 🏆 100% Scholarship — Sitare Foundation  
@@ -31,56 +25,42 @@
 🔍 Exploring **Search Engines, Information Retrieval & ML Systems**  
 ⚡ Passionate about building **scalable, real-world applications**
 
-</div>
-
 ---
 
 ## 🧠 Skill Level
-
-<div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,java,c,js,react,nodejs,flask,django,mysql,mongodb,linux"/>
 
 <br><br>
 
-<img src="https://progress-bar.dev/90/?title=Python&width=500"/>
-<img src="https://progress-bar.dev/75/?title=Java&width=500"/>
-<img src="https://progress-bar.dev/70/?title=JavaScript&width=500"/>
-<img src="https://progress-bar.dev/80/?title=Backend+Development&width=500"/>
-<img src="https://progress-bar.dev/85/?title=DSA&width=500"/>
-
-</div>
+<img src="https://progress-bar.dev/90/?title=Python"/>
+<img src="https://progress-bar.dev/75/?title=Java"/>
+<img src="https://progress-bar.dev/70/?title=JavaScript"/>
+<img src="https://progress-bar.dev/80/?title=Backend"/>
+<img src="https://progress-bar.dev/85/?title=DSA"/>
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
 ### 💻 Languages  
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-
-<br/><br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ### 🌐 Web & Backend  
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-
-<br/><br/>
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 ### 🗄️ Data & Tools  
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-
-</div>
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ---
 
@@ -88,10 +68,9 @@
 
 <table>
 <tr>
-<td width="50%">
+<td>
 
 ### 🏥 Clinic Management System
-
 • Built a **full-stack healthcare workflow system** handling appointments, billing & prescriptions  
 • Designed **role-based authentication system** for 3 user types  
 • Improved operational efficiency by digitizing manual processes  
@@ -99,11 +78,12 @@
 `Django` `MySQL` `JavaScript`
 
 </td>
+</tr>
 
-<td width="50%">
+<tr>
+<td>
 
 ### 🎉 EventSphere — Event Management Platform
-
 • Developed scalable system for **event creation, registrations & announcements**  
 • Integrated **real-time updates + analytics dashboards**  
 • Enhanced coordination for large student communities  
@@ -114,10 +94,9 @@
 </tr>
 
 <tr>
-<td width="50%">
+<td>
 
 ### 🤖 Career Path Finder (NLP System)
-
 • Built NLP pipeline to **extract skills from resumes**  
 • Implemented automated **job-role recommendation system**  
 • Used scraping + keyword analysis for trend-based suggestions  
@@ -125,11 +104,12 @@
 `Python` `NLP` `BeautifulSoup`
 
 </td>
+</tr>
 
-<td width="50%">
+<tr>
+<td>
 
 ### 📊 StackOverflow Tag Trend Analyzer
-
 • Processed **400K+ real-world data points**  
 • Designed REST APIs for trend analysis  
 • Built interactive dashboards for **tech trend visualization**  
@@ -144,15 +124,15 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=arjunkadampatil&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
+<p>
   <img src="https://streak-stats.demolab.com?user=arjunkadampatil&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arjunkadampatil&theme=tokyo-night"/>
 </p>
 
@@ -160,7 +140,7 @@
 
 ## 🐍 Contribution Snake
 
-<p align="center">
+<p>
   <img src="https://raw.githubusercontent.com/arjunkadampatil/arjunkadampatil/output/github-contribution-grid-snake.svg"/>
 </p>
 
@@ -168,22 +148,14 @@
 
 ## 📈 Current Focus
 
-<div align="center">
-
 🔍 Search Engines & Information Retrieval  
 ⚙️ Backend Architecture & System Design  
 🧠 Advanced DSA & Problem Solving  
 📊 Data Engineering & Large Dataset Processing  
 
-</div>
-
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=100&section=footer"/>
-</p>
-
-<p align="center">
+<p>
   <i>
     I focus on building systems that solve real problems.<br/>
     Open to internships, collaborations & impactful opportunities 🚀
