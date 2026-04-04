@@ -73,7 +73,7 @@
 
 ---
 
-### EventSphere — Event Management Platform
+### EventSphere - Event Management Platform
 • Developed scalable system for **event creation, registrations & announcements**  
 • Integrated **real-time updates + analytics dashboards**  
 • Enhanced coordination for large student communities  
