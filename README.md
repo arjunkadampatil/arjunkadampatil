@@ -66,8 +66,6 @@
 
 ## 💼 Featured Projects (Impact-Oriented)
 
-<div>
-
 ### 🏥 Clinic Management System
 • Built a **full-stack healthcare workflow system** handling appointments, billing & prescriptions  
 • Designed **role-based authentication system** for 3 user types  
@@ -101,8 +99,6 @@
 • Built interactive dashboards for **tech trend visualization**  
 
 `Python` `Flask` `Chart.js` `Pandas`
-
-</div>
 
 ---
 
