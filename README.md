@@ -16,18 +16,18 @@
 
 ---
 
-## • About Me
+## # About Me
 
-•  B.Tech Computer Science @ Sitare University (2028)  
-•  100% Scholarship - Sitare Foundation  
-•  Full Stack Developer with strong focus on **Backend & Systems**  
-•  Solid foundation in **DSA, OOP & System Design fundamentals**  
-•  Exploring **Search Engines, Information Retrieval & ML Systems**  
-•  Passionate about building **scalable, real-world applications**
+• B.Tech Computer Science @ Sitare University (2028)  
+• 100% Scholarship - Sitare Foundation  
+• Full Stack Developer with strong focus on **Backend & Systems**  
+• Solid foundation in **DSA, OOP & System Design fundamentals**  
+• Exploring **Search Engines, Information Retrieval & ML Systems**  
+• Passionate about building **scalable, real-world applications**
 
 ---
 
-## • Skill Level
+## # Skill Level
 
 <img src="https://skillicons.dev/icons?i=python,java,c,js,react,nodejs,flask,django,mysql,mongodb,linux"/>
 
@@ -39,21 +39,21 @@
 
 ---
 
-## • Tech Stack
+## # Tech Stack
 
-### • Languages  
+### # Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### • Web & Backend  
+### # Web & Backend  
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-### • Data & Tools  
+### # Data & Tools  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -62,7 +62,7 @@
 
 ---
 
-## • Featured Projects (Impact-Oriented)
+## # Featured Projects (Impact-Oriented)
 
 ### Clinic Management System
 • Built a **full-stack healthcare workflow system** handling appointments, billing & prescriptions  
@@ -100,12 +100,12 @@
 
 ---
 
-## • Current Focus
+## # Current Focus
 
-•  Search Engines & Information Retrieval  
-•  Backend Architecture & System Design  
-•  Advanced DSA & Problem Solving  
-•  Data Engineering & Large Dataset Processing  
+• Search Engines & Information Retrieval  
+• Backend Architecture & System Design  
+• Advanced DSA & Problem Solving  
+• Data Engineering & Large Dataset Processing  
 
 ---
 
