@@ -1,41 +1,43 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,30&height=220&section=header&text=Arjun%20Kadam&fontSize=72&fontColor=fff&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%94%20I%20build%20systems%20that%20scale.&descAlignY=60&descSize=20&descColor=c4b5fd&animation=twinkling" width="100%"/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Arjun%20Kadam&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Systems%20Thinker%20%7C%20Builder&descAlignY=58&descSize=18&descColor=a78bfa&animation=fadeIn" width="100%"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1400&color=C4B5FD&center=true&vCenter=true&multiline=false&width=750&lines=Backend+%26+Full+Stack+Engineer+%7C+Python+%C2%B7+Flask+%C2%B7+Django;Designing+systems+for+correctness%2C+then+for+scale;400K%2B+data+points+processed+%E2%80%94+Year+One.;CSE+%40+Sitare+University+%C2%B7+100%25+Merit+Scholar;Open+to+internships+%26+high-signal+collaborations+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=I+build+systems+that+actually+scale.;Backend+%26+Full+Stack+%E2%80%94+Python+%7C+Flask+%7C+React;Processing+400K%2B+data+points+since+year+one.;CSE+%40+Sitare+University+%E2%80%94+Class+of+2028.;Open+to+internships+%26+high-impact+collabs+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-kadam-a2394631a)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arjunkadampatil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-kadam-a2394631a)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arjunkadampatil)
+&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=arjunkadampatil&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/arjunkadampatil)
 
 </div>
 
----
-
-## ⚡ The Short Version
-
-I'm a Computer Science student at Sitare University (100% merit scholarship) who builds backend-heavy, real-world systems — not toy projects. I care about architecture, clean data pipelines, and software that holds up under pressure. My focus: systems design, information retrieval, and full-stack engineering with a strong backend bias.
-
-> *I don't just write code — I engineer solutions that can grow.*
+<br/>
 
 ---
 
-## 🧠 What I Bring to the Table
+## `$ whoami`
 
-| Dimension | Detail |
-|---|---|
-| 🎓 Education | B.Tech CSE @ Sitare University (2028) · 100% Scholarship |
-| 🏗️ Strength | Backend architecture, REST APIs, real-world data pipelines |
-| 🔍 Exploring | Search engines, information retrieval, ML systems |
-| 🧩 Foundation | DSA · OOP · System Design fundamentals |
-| 🤝 Seeking | Internships · Open-source collabs · High-impact builds |
+```python
+arjun = {
+    "role"      : "Backend Engineer · Full Stack Developer",
+    "education" : "B.Tech CSE @ Sitare University (2028) · 100% Merit Scholarship",
+    "focus"     : ["System Design", "Backend Architecture", "Information Retrieval"],
+    "currently" : "Building scalable real-world systems & exploring search engines",
+    "available" : True  # Open to internships & high-impact collaborations
+}
+```
+
+> I don't just write code — I architect solutions that hold up when things get real.
+> My goal: build systems that are correct first, fast second, and maintainable always.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
+
+<div align="center">
 
 **Languages**
 
@@ -59,55 +61,74 @@ I'm a Computer Science student at Sitare University (100% merit scholarship) who
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
----
-
-## 🏗️ Featured Projects
-
-> Each project was built to solve a real problem — not to pad a portfolio.
+</div>
 
 ---
+
+## 🏗️ Featured Work
+
+> Built to solve real problems. Architected to survive real load.
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🏥 Clinic Management System
 `Django` · `MySQL` · `JavaScript`
 
-Digitized an end-to-end healthcare workflow — from patient appointments to billing and prescriptions — replacing brittle manual processes with a structured, role-based system.
+Replaced fragmented paper-based healthcare workflows with a structured, multi-role digital system — turning administrative chaos into an auditable, reliable process.
 
-- Architected **3-tier role-based auth** (Admin, Doctor, Receptionist) with access-controlled views
-- Designed normalized relational schema handling appointments, invoices & prescription history
-- Reduced operational friction by eliminating redundant paper-based workflows entirely
+**Engineering highlights:**
+- Architected **3-tier role-based auth** (Admin · Doctor · Receptionist) with scoped permissions per view
+- Designed normalized relational schema covering appointments, billing & prescription history end-to-end
+- Eliminated cross-department manual data duplication entirely
 
----
+</td>
+<td width="50%" valign="top">
 
-### 🎉 EventSphere — Event Management Platform
+### 🎉 EventSphere — Event Platform
 `Flask` · `Node.js` · `MongoDB`
 
-A scalable event coordination platform built for large student communities where fragmented communication was a real bottleneck.
+Built a scalable coordination system for large student communities where fragmented communication was degrading event quality and reach.
 
-- Built full CRUD event lifecycle: creation → registration → announcements → post-event analytics
-- Integrated **real-time update feeds** + analytics dashboards for organizer insights
-- Designed to serve concurrent users across multiple active events simultaneously
+**Engineering highlights:**
+- Full CRUD lifecycle: creation → registration → announcements → post-event analytics
+- Real-time update feeds with event-scoped analytics dashboards for organizers
+- Designed for concurrent multi-event load without performance degradation
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 🤖 Career Path Finder — NLP Recommendation Engine
+### 🤖 Career Path Finder — NLP Engine
 `Python` · `NLP` · `BeautifulSoup`
 
-An intelligent pipeline that extracts structured skill signals from unstructured resume text and maps them to relevant job roles.
+An intelligent pipeline that transforms unstructured resume text into structured skill signals, then maps them to live job market roles — automatically, at scale.
 
-- Built custom NLP pipeline for **keyword extraction + skill normalization** from raw resumes
-- Scraped live job market data to keep recommendations trend-aware, not static
-- Automated the resume → role matching process, cutting manual analysis time significantly
+**Engineering highlights:**
+- Custom NLP pipeline for skill extraction, normalization & deduplication from raw resumes
+- Live job market scraping keeps recommendations trend-aware, not static
+- Automated resume → role matching, removing the need for any manual analysis
 
----
+</td>
+<td width="50%" valign="top">
 
-### 📊 StackOverflow Tag Trend Analyzer
+### 📊 StackOverflow Trend Analyzer
 `Python` · `Flask` · `Pandas` · `Chart.js`
 
-A data engineering project at real scale — not a sample dataset, but 400K+ production records from StackOverflow.
+Real-scale data engineering — not a sample dataset, but 400K+ production StackOverflow records ingested, processed, and visualized.
 
-- Ingested and processed **400,000+ data points** using optimized Pandas pipelines
-- Exposed clean **REST APIs** for trend queries, filterable by tag, time range, and volume
-- Built interactive Chart.js dashboards surfacing meaningful signals in developer tech trends
+**Engineering highlights:**
+- Optimized Pandas pipelines handling **400,000+ real data points** without memory blowouts
+- Clean REST API layer with filtering by tag, time window, and volume thresholds
+- Interactive Chart.js dashboards surfacing actionable developer ecosystem trends
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -115,53 +136,68 @@ A data engineering project at real scale — not a sample dataset, but 400K+ pro
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=arjunkadampatil&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=arjunkadampatil&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=c4b5fd&text_color=e2e8f0&border_radius=12" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunkadampatil&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunkadampatil&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=e2e8f0&border_radius=12" height="170"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=arjunkadampatil&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
+<img src="https://streak-stats.demolab.com?user=arjunkadampatil&theme=tokyonight&hide_border=true&background=0d1117&ring=c4b5fd&fire=c4b5fd&currStreakLabel=c4b5fd&border_radius=12" height="170"/>
 
-<br/><br/>
+</div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arjunkadampatil&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff" width="95%"/>
+<br/>
 
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arjunkadampatil&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=c4b5fd&line=7c3aed&point=c4b5fd&area=true&area_color=7c3aed" width="96%"/>
 </div>
 
 ---
 
-## 🐍 Contribution Activity
+## 🐍 Contribution Trail
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/arjunkadampatil/arjunkadampatil/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
+  <img src="https://raw.githubusercontent.com/arjunkadampatil/arjunkadampatil/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" width="96%"/>
 </div>
 
 ---
 
-## 🔭 Currently Building Towards
+## 🔭 What I'm Building Towards
 
 ```
-Search Engines & Information Retrieval  →  How machines find meaning in text at scale
-Backend Architecture & System Design    →  Building for correctness, then performance
-Advanced DSA & Competitive Problem Solving  →  Sharpening the engineering fundamentals
-Data Engineering & Large Dataset Processing →  Making pipelines that don't break at 1M rows
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│  🔍  Search Engines & Information Retrieval                     │
+│      → How machines find meaning in text at scale               │
+│                                                                 │
+│  ⚙️   Backend Architecture & System Design                      │
+│      → Building for correctness, then for performance           │
+│                                                                 │
+│  🧠  Advanced DSA & Competitive Problem Solving                 │
+│      → Sharpening the fundamentals that never go stale          │
+│                                                                 │
+│  📊  Data Engineering & Large Dataset Processing                │
+│      → Pipelines that don't break at 1M rows                    │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 💭 How I Think
+## 💭 Engineering Philosophy
 
-I believe most software problems are actually **systems thinking problems in disguise** — the code is just the expression. Good engineers don't just know syntax; they understand tradeoffs, failure modes, and what happens when the load triples at 2 AM.
+Most software failures are **systems thinking failures** in disguise — the code is just where they surface.
 
-I'm still early in my journey — but I move with intention, build with discipline, and stay curious enough to question the obvious.
+Good engineers understand tradeoffs, anticipate failure modes, and design for what happens when load triples at 2 AM. I'm early in my career, but I move with intention: build clean, think in systems, and stay curious enough to question the obvious.
+
+> *"Make it work. Make it right. Make it fast — in that order."*
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,30&height=130&section=footer&animation=twinkling" width="100%"/>
 
-*Building systems that matter · Open to internships, collaborations & real problems worth solving*
+**Building systems that matter · Open to internships & real problems worth solving**
 
 </div>
