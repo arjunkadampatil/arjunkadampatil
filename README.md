@@ -18,12 +18,12 @@
 
 ## About Me
 
-B.Tech Computer Science @ Sitare University (2028)  
-100% Scholarship — Sitare Foundation  
-Full Stack Developer with strong focus on **Backend & Systems**  
-Solid foundation in **DSA, OOP & System Design fundamentals**  
-Exploring **Search Engines, Information Retrieval & ML Systems**  
-Passionate about building **scalable, real-world applications**
+• B.Tech Computer Science @ Sitare University (2028)  
+• 100% Scholarship — Sitare Foundation  
+• Full Stack Developer with strong focus on **Backend & Systems**  
+• Solid foundation in **DSA, OOP & System Design fundamentals**  
+• Exploring **Search Engines, Information Retrieval & ML Systems**  
+• Passionate about building **scalable, real-world applications**
 
 ---
 
@@ -122,10 +122,10 @@ Passionate about building **scalable, real-world applications**
 
 ## Current Focus
 
-Search Engines & Information Retrieval  
-Backend Architecture & System Design  
-Advanced DSA & Problem Solving  
-Data Engineering & Large Dataset Processing  
+• Search Engines & Information Retrieval  
+• Backend Architecture & System Design  
+• Advanced DSA & Problem Solving  
+• Data Engineering & Large Dataset Processing  
 
 ---
 
