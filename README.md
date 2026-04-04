@@ -18,12 +18,12 @@
 
 ## # About Me
 
-• B.Tech Computer Science @ Sitare University (2028)  
-• 100% Scholarship - Sitare Foundation  
-• Full Stack Developer with strong focus on **Backend & Systems**  
-• Solid foundation in **DSA, OOP & System Design fundamentals**  
-• Exploring **Search Engines, Information Retrieval & ML Systems**  
-• Passionate about building **scalable, real-world applications**
+B.Tech Computer Science @ Sitare University (2028)  
+100% Scholarship - Sitare Foundation  
+Full Stack Developer with strong focus on **Backend & Systems**  
+Solid foundation in **DSA, OOP & System Design fundamentals**  
+Exploring **Search Engines, Information Retrieval & ML Systems**  
+Passionate about building **scalable, real-world applications**
 
 ---
 
@@ -65,36 +65,36 @@
 ## # Featured Projects (Impact-Oriented)
 
 ### Clinic Management System
-• Built a **full-stack healthcare workflow system** handling appointments, billing & prescriptions  
-• Designed **role-based authentication system** for 3 user types  
-• Improved operational efficiency by digitizing manual processes  
+Built a **full-stack healthcare workflow system** handling appointments, billing & prescriptions  
+Designed **role-based authentication system** for 3 user types  
+Improved operational efficiency by digitizing manual processes  
 
 `Django` `MySQL` `JavaScript`
 
 ---
 
 ### EventSphere - Event Management Platform
-• Developed scalable system for **event creation, registrations & announcements**  
-• Integrated **real-time updates + analytics dashboards**  
-• Enhanced coordination for large student communities  
+Developed scalable system for **event creation, registrations & announcements**  
+Integrated **real-time updates + analytics dashboards**  
+Enhanced coordination for large student communities  
 
 `Flask` `Node.js` `MongoDB`
 
 ---
 
 ### Career Path Finder (NLP System)
-• Built NLP pipeline to **extract skills from resumes**  
-• Implemented automated **job-role recommendation system**  
-• Used scraping + keyword analysis for trend-based suggestions  
+Built NLP pipeline to **extract skills from resumes**  
+Implemented automated **job-role recommendation system**  
+Used scraping + keyword analysis for trend-based suggestions  
 
 `Python` `NLP` `BeautifulSoup`
 
 ---
 
 ### StackOverflow Tag Trend Analyzer
-• Processed **400K+ real-world data points**  
-• Designed REST APIs for trend analysis  
-• Built interactive dashboards for **tech trend visualization**  
+Processed **400K+ real-world data points**  
+Designed REST APIs for trend analysis  
+Built interactive dashboards for **tech trend visualization**  
 
 `Python` `Flask` `Chart.js` `Pandas`
 
@@ -102,10 +102,10 @@
 
 ## # Current Focus
 
-• Search Engines & Information Retrieval  
-• Backend Architecture & System Design  
-• Advanced DSA & Problem Solving  
-• Data Engineering & Large Dataset Processing  
+Search Engines & Information Retrieval  
+Backend Architecture & System Design  
+Advanced DSA & Problem Solving  
+Data Engineering & Large Dataset Processing  
 
 ---
 
