@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Arjun Kadam 👋</h1>
+<h1 align="center">Hi, I'm Arjun Kadam Patil 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=CSE+Student+%40+Sitare+University;Full+Stack+Developer+%7C+Backend+Focused;Building+Scalable+Real-World+Systems;Python+%7C+C+%7C+Flask+%7C+React+%7C+DSA" />
