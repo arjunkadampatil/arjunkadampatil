@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arjun-kadam-a2394631a"><img src="https://img.shields.io/badge/LinkedIn-Arjun%20Kadam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:su-24022@sitare.org"><img src="https://img.shields.io/badge/Email-su--24022%40sitare.org-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:arjunkadampatil693@gmail.com"><img src="https://img.shields.io/badge/Email-su--24022%40sitare.org-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://karigariandaz.onrender.com"><img src="https://img.shields.io/badge/Live-Karigariandaz-F59E0B?style=for-the-badge&logo=render&logoColor=white" alt="Karigariandaz"/></a>
   <img src="https://komarev.com/ghpvc/?username=arjunkadampatil&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
@@ -25,7 +25,6 @@ I'm a Computer Science undergraduate at **Sitare University** (B.Tech, class of 
 I like the part of software most people never see: the APIs, the data models, the pipelines that turn raw input into something useful. Lately that has meant search engines and information retrieval, deep-learning models on satellite imagery, and a marketplace that connects Lucknow's Chikankari artisans with buyers abroad.
 
 - 🔭 Building **Karigariandaz**, an export marketplace for authentic Lucknow Chikankari
-- 🌊 Team **Niyanta** at **Smart India Hackathon 2026**: dam-break and flash-flood simulation
 - 📚 Going deeper into **IR, system design and advanced DSA**
 - 🤝 Looking for a **software development internship**
 
@@ -40,7 +39,7 @@ class Arjun:
                   "Search & IR", "ML"]
     languages  = ["Python", "Java",
                   "JavaScript", "C"]
-    currently  = "SIH 2026 · Karigariandaz"
+    currently  = "SIH 2026" · "Karigariandaz"
     open_to    = ["Internships",
                   "Collaborations"]
 
@@ -103,24 +102,6 @@ An export marketplace for authentic **Lucknow Chikankari**, built on field resea
 
 `JavaScript` `HTML/CSS` `Render`
 <br/>[🌐 Live demo](https://karigariandaz.onrender.com)
-
-</td>
-<td width="50%" valign="top">
-
-### 🌊 JALRAKSHAK · SIH 2026
-Dam-break inundation and flash-flood simulation for disaster response (problem **SIH26161**). Couples an **SPH** solver with **Delft3D FM**, with **HEC-RAS 2D** as a fast baseline. Case studies: **Teesta river** and **Bhakra Nangal dam**.
-
-`Python` `Delft3D FM` `HEC-RAS` `SPH`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🛰️ NIYANTA: Reservoir Monitoring
-An **Attention U-Net** pipeline that segments water extent for the **Tehri reservoir** and estimates water level, volume and storage from it. Ships with a full training notebook and a quick-run notebook on Colab.
-
-`Python` `Attention U-Net` `Google Colab`
 
 </td>
 <td width="50%" valign="top">
@@ -230,7 +211,7 @@ An implementation of **Myers' O(ND) diff**, the shortest-edit-script algorithm b
 
 <p align="center">
   I'm open to <b>software development internships</b>, hackathon teams and collaborations on backend, search or ML projects.<br/>
-  The fastest way to reach me is <a href="https://www.linkedin.com/in/arjun-kadam-a2394631a">LinkedIn</a> or <a href="mailto:su-24022@sitare.org">email</a>.
+  The fastest way to reach me is <a href="https://www.linkedin.com/in/arjun-kadam-a2394631a">LinkedIn</a> or <a href="mailto:arjunkadampatil693@gmail.com">email</a>.
 </p>
 
 <p align="center">
