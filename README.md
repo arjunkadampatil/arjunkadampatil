@@ -1,6 +1,6 @@
 <!-- ============================  HEADER  ============================ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:6366f1&height=220&section=header&text=Arjun%20Kadam&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Backend%20%E2%80%A2%20Systems%20%E2%80%A2%20Search%20%26%20ML&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="Arjun Kadam header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:6366f1&height=220&section=header&text=Arjun%20Kadam&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Backend%20%E2%80%A2%20Systems%20%E2%80%A2%20Search%20and%20ML&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="Arjun Kadam header"/>
 </p>
 
 <p align="center">
@@ -20,10 +20,6 @@
 
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" alt="wave"/> About Me
 
-<table>
-<tr>
-<td width="58%" valign="top">
-
 I'm a Computer Science undergraduate at **Sitare University** (B.Tech, class of 2028), studying on a **full scholarship from the Sitare Foundation**.
 
 I like the part of software most people never see: the APIs, the data models, the pipelines that turn raw input into something useful. Lately that has meant search engines and information retrieval, deep-learning models on satellite imagery, and a marketplace that connects Lucknow's Chikankari artisans with buyers abroad.
@@ -33,8 +29,8 @@ I like the part of software most people never see: the APIs, the data models, th
 - 📚 Going deeper into **IR, system design and advanced DSA**
 - 🤝 Looking for a **software development internship**
 
-</td>
-<td width="42%" valign="top">
+<details open>
+<summary><b>🧑‍💻 Arjun, as a Python class</b></summary>
 
 ```python
 class Arjun:
@@ -52,9 +48,7 @@ class Arjun:
         return "Build things that solve real problems."
 ```
 
-</td>
-</tr>
-</table>
+</details>
 
 ---
 
@@ -217,11 +211,11 @@ An implementation of **Myers' O(ND) diff**, the shortest-edit-script algorithm b
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=arjunkadampatil&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=818cf8&line=6366f1&point=f59e0b&area=true" alt="Contribution graph"/>
+  <img width="100%" src="https://ghchart.rshah.org/6366f1/arjunkadampatil" alt="Contribution graph"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arjunkadampatil&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=arjunkadampatil&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies"/>
 </p>
 
 ### 🐍 Contribution Snake
