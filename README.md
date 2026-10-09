@@ -1,6 +1,6 @@
 <!-- ============================  HEADER  ============================ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:6366f1&height=220&section=header&text=Arjun%20Kadam&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Backend%20%E2%80%A2%20Systems%20%E2%80%A2%20Search%20and%20ML&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="Arjun Kadam header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:6366f1&height=220&section=header&text=Arjun%20Kadam&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Backend%20%E2%80%A2%20Systems%20%E2%80%A2%20Search%20and%20ML&descAlignY=58&descSize=20" width="100%" alt="Arjun Kadam header"/>
 </p>
 
 <p align="center">
