@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arjun-kadam-a2394631a"><img src="https://img.shields.io/badge/LinkedIn-Arjun%20Kadam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:arjunkadampatil693@gmail.com"><img src="https://img.shields.io/badge/Email-su--24022%40sitare.org-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:arjunkadampatil693@gmail.com"><img src="https://img.shields.io/badge/Email-arjunkadampatil-693%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://karigariandaz.onrender.com"><img src="https://img.shields.io/badge/Live-Karigariandaz-F59E0B?style=for-the-badge&logo=render&logoColor=white" alt="Karigariandaz"/></a>
   <img src="https://komarev.com/ghpvc/?username=arjunkadampatil&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
